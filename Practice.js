@@ -1,1 +1,0 @@
-console.log("Welcome to the Spiritual World")
