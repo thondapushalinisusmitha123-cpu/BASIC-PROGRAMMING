@@ -1,2 +1,0 @@
-user.name=shalini
-user.email=thondapushalinisusmtha123
