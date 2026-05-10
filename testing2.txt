@@ -1,1 +1,1 @@
-cosnole.log("testing the git merge");
+console.log("testing the git merge");
