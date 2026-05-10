@@ -1,0 +1,1 @@
+document.write("finding good things in the world is not a hard task, you just need to be optimistic and have a positive attitude towards life");
