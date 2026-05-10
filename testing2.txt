@@ -1,1 +1,0 @@
-cosnole.log("testing the git merge");
